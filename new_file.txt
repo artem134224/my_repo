@@ -1,0 +1,1 @@
+Updated content in new_file.txt
