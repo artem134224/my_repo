@@ -1,1 +1,1 @@
-This is a new file
+Updated content in new_file.txt
